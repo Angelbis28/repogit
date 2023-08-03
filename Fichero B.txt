@@ -1,1 +1,3 @@
-Contenido del Fichero B
+Contenido del Fichero B 
+
+se modifica Fichero B y otra vez
